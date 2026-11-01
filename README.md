@@ -22,10 +22,13 @@
 <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,express,dotnet,flask,graphql,bootstrap,unity" alt="React, Angular, Node.js, NestJS, Express, .NET, Flask, GraphQL, Bootstrap, Unity" />
 
 **Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="PostgreSQL, MySQL, MongoDB, Firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase" />
 
 **DevOps & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,grafana,git,gitlab" alt="Docker, AWS, Nginx, Linux, Grafana, Git, GitLab" />
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,gitlab" alt="Docker, AWS, Nginx, Linux, Git, GitLab" />
+
+**Observability**<br/>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Grafana, Prometheus" /> <sub>+ Loki</sub>
 
 **Mobile & Hardware**<br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,raspberrypi,arduino" alt="Android, Raspberry Pi, Arduino" />
