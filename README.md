@@ -1,6 +1,12 @@
-## Hey 👋, I'm Corentin Urbain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Corentin%20Urbain&fontSize=50&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" alt="Corentin Urbain" width="100%" />
 
-<p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=620&lines=AI-boosted+engineer%2C+not+AI-generated+slop;Yes%2C+I+actually+read+the+diff+before+merging;You're+absolutely+right!+(it+wasn't);Vibe+coding%3F+Sure.+Vibe+debugging%3F+Never.;10x+engineer+%3D+1+human+%2B+9+agents;My+context+window+is+full.+So+is+my+coffee.;I+say+please+to+the+LLM.+Just+in+case." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/dymerz"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/urbain-corentin-84524915b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gitlab.com/dymerz"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
@@ -43,12 +49,22 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/dymerz" alt="Dymerz's contribution heatmap" width="100%" />
+<p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dymerz&theme=github-dark-blue&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=dymerz&theme=default&hide_border=true" alt="GitHub streak" />
+    </picture>
+  </a>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dymerz/Dymerz/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dymerz/Dymerz/output/github-snake.svg" alt="Snake eating my contributions" width="100%" />
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dymerz&style=flat-square&color=blue" alt="Profile views" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="" width="100%" />
